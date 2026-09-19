@@ -6,8 +6,8 @@
   "license": "MIT",
   "private": true,
   "engines": {
-  "node": "18.16.0"
-  },
+  "node": ">=20.0.0"
+},
 
   "scripts": {
     "web": "yarn workspace web",
